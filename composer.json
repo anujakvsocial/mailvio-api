@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "kyvio/mailvio-api",
     "description": "Official Mailvio provided RESTFul API php library",
     "keywords": [
         "mailvio",
